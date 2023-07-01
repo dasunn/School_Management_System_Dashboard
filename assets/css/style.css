@@ -81,12 +81,6 @@ body {
   color: var(--blue);
 }
 
-
-.navigation ul li a .active {
-  background-color: var(--white);
-  color: var(--blue);
-}
-
 .navigation ul li a .icon {
   position: relative;
   display: block;
